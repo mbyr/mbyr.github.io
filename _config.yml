@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Michal Byra, PhD"
+title                    : "Michal Byra, PhD, DSc"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Michal Byra"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor @ IFTR Polish Academy of Sciences"
+  bio              : "Assistant Professor @ IFTR Polish Academy of Sciences & AI Researcher @ Samsung AI Center Warsaw"
   location         : "Warsaw, Poland"
   employer         : 
   uri              : 
