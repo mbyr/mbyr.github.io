@@ -22,7 +22,7 @@ My research interests evolve over time but are always related to neural networks
 * zero-shot methods (VLMs, LLMs) 
 * explainability and robustness in AI
 
-I have published over 50 research papers on the above topics (ranked among the top 2% of most-cited scientists by Stanford University).
+I have published over 50 research papers on the above topics (ranked among the top 2% of most cited scientists by Stanford University).
 
 # For Students
 
