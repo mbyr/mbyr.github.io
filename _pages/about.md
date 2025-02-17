@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Polish Academy of Sciences and a Research Scientist at Samsung AI Center. Previously, I was a Research Fellow at RIKEN, Wako, Japan and a Postdoc at University of California San Diego, USA. 
+I am an Assistant Professor at the Polish Academy of Sciences and a Research Scientist at the Samsung AI Center. Previously, I was a Research Fellow at RIKEN, Wako, Japan and a Postdoc at University of California San Diego, USA. 
 
 I obtained my PhD (cum laude) and DSc degrees at the Polish Academy of Sciences. 
 
