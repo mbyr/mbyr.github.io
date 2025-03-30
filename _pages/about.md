@@ -16,11 +16,10 @@ I obtained my PhD (cum laude) and DSc degrees at the Polish Academy of Sciences.
 My research interests evolve over time but are always related to neural networks, biomedical image analysis (radiology & neuroscience) and image processing. I work on a variety of topics, including:
 
 * biomedical image classification, segmentation and registration
-* computational ultrasound imaging and quantitative ultrasound (e.g. liver, breast, nerve) 
-* transfer learning with deep networks 
-* implicit neural networks (representing biomedical data, learning in deep weight spaces)
-* zero-shot methods (VLMs, LLMs) 
-* explainability and robustness in AI
+* computational medical imaging and quantitative ultrasound (e.g. liver, breast, nerve) 
+* transfer learning in deep neural networks 
+* implicit neural representations
+* computer vision, vision-language models and video understanding
 
 I have published over 50 research papers on the above topics (ranked among the top 2% of most cited scientists by Stanford University).
 
