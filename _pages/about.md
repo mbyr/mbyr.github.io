@@ -13,16 +13,16 @@ I obtained my PhD (cum laude) and DSc degrees at the Polish Academy of Sciences.
 
 # Research
 
-My research interests evolve over time but are always related to neural networks, biomedical image analysis (radiology and neuroscience) and image processing. I work on a variety of topics, including:
+My research centers on neural networks, biomedical image analysis (radiology and neuroscience), and image processing. Over time, my interests have evolved to cover a wide range of topics, including:
 
 * biomedical image classification, segmentation and registration
 * computational medical imaging and quantitative ultrasound (e.g. liver, breast, nerve) 
 * transfer learning in deep neural networks 
-* implicit neural representations
+* representation learning, implicit neural representations
 * computer vision, vision-language models and video understanding
 
 # For Students
 
-A beginning is a very delicate time... I am always open to working with motivated students. If you are interested in an internship or working on a thesis related to neural networks or biomedical image analysis, feel free to reach out! :)
+A beginning is a very delicate time... I am always open to working with motivated students. If you are interested in an internship or working on a thesis related to neural networks or biomedical image analysis, feel free to reach out! 
 
 
