@@ -13,7 +13,7 @@ I obtained my PhD (cum laude) and DSc degrees at the Polish Academy of Sciences.
 
 # Research
 
-My research centers on neural networks, biomedical image analysis (radiology and neuroscience), and image processing. Over time, my interests have evolved to cover a wide range of topics, including:
+My research centers on neural networks, biomedical image analysis (radiology and neuroscience), and image processing. My interests include:
 
 * biomedical image classification, segmentation and registration
 * computational medical imaging and quantitative ultrasound (e.g. liver, breast, nerve) 
